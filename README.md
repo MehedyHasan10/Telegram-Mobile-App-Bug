@@ -19,5 +19,6 @@ I submitted a detailed bug report to the Telegram team, including:
 ### 📎 Attachments
 - Bug report screenshot  
 - Test Case
+- Recorded video: https://drive.google.com/file/d/1BP7_U-ljwEQ6vbKGmTZvwq8zSmu8JCF0/view
 
 ---
