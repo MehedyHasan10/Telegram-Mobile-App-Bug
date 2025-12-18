@@ -8,17 +8,16 @@ As a **QA Engineer**, I’m always looking for ways to improve user experiences.
 - **Device:** Android
 - **Severity:** High – affects basic usability and user experience.
 
-### 📩 Report & Acknowledgment
+### 📩 Report 
 I submitted a detailed bug report to the Telegram team, including:
 - A step-by-step breakdown of the issue
 - A screen recording demonstrating the bug
 
-I'm excited to share that **Telegram acknowledged the issue** and responded via email!
 
 > ✅ Moments like this remind me why I love QA — identifying real-world issues and making a real impact.
 
 ### 📎 Attachments
 - Bug report screenshot  
-- Telegram’s acknowledgment email
+- Test Case
 
 ---
