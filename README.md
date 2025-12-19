@@ -17,7 +17,6 @@ I submitted a detailed bug report to the Telegram team, including:
 > ✅ Moments like this remind me why I love QA — identifying real-world issues and making a real impact.
 
 ### 📎 Attachments
-- Bug report screenshot  
 - Test Case
 - Recorded video: https://drive.google.com/file/d/1BP7_U-ljwEQ6vbKGmTZvwq8zSmu8JCF0/view
 
